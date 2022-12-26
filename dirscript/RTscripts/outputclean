@@ -1,0 +1,4 @@
+cpu_memory.sh
+service_alert.sh
+cleanup.sh
+outputclean

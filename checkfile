@@ -1,0 +1,15 @@
+total 32
+-rw-rw-r-- 1 ubuntu ubuntu    0 Nov 26 13:27 file4
+-rw-rw-rw- 1 ubuntu ubuntu    0 Nov 26 13:27 file3
+-rw-rw-r-- 1 ubuntu ubuntu   40 Nov 28 11:16 file5
+drwxrwxr-x 2 ubuntu ubuntu 4096 Nov 28 12:00 dir1
+-rwxrwxrwx 1 ubuntu ubuntu    0 Nov 29 00:39 file11
+-rwxrwxrwx 1 ubuntu ubuntu    0 Nov 29 00:41 file12
+-rwxrwxrwx 1 ubuntu ubuntu    0 Nov 29 00:47 file13
+drwxrwxr-x 3 ubuntu ubuntu 4096 Nov 29 06:34 dir4
+-rw-rw-r-- 1 ubuntu ubuntu 1142 Nov 29 13:25 output
+drwxrwxr-x 2 ubuntu ubuntu 4096 Nov 30 00:39 dir2
+-rw-rw-r-- 1 ubuntu ubuntu   85 Nov 30 07:41 file1
+-rw-rw-r-- 1 ubuntu ubuntu   66 Nov 30 07:50 file2
+-rw-rw-r-- 1 ubuntu ubuntu  111 Nov 30 08:20 file9rut
+-rw-rw-r-- 1 ubuntu ubuntu    0 Dec  1 01:43 checkfile
